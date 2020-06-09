@@ -1,0 +1,14 @@
+{
+    "name": "luke/whoops",
+    "type": "wordpress-plugin",
+    "license": "UNLICENSED",
+    "authors": [
+        {
+            "name": "Luke Kortunov",
+            "email": "luke@kortunov.me"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.7"
+    }
+}
