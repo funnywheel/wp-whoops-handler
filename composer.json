@@ -10,5 +10,8 @@
     ],
     "require": {
         "filp/whoops": "^2.7"
+    },
+    "config": {
+        "preferred-install": "dist"
     }
 }

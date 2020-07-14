@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:     Whoops Pretty Error Handler page for WP
- * Plugin Version:  1.0
+ * Plugin Version:  1.1
  * Author:          Luke Kortunov <luke@kortunov.me>
  *
  * @link            https://github.com/filp/whoops - Original Whoops, awesome tool
